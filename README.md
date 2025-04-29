@@ -65,8 +65,6 @@ Designing, testing, and tuning consensus algorithms for distributed systems like
 
 ## License
 
-## License
-
 This project is dual-licensed under either:
 
 - [Apache License 2.0](LICENSE-APACHE)
