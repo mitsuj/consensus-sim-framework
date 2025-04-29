@@ -1,6 +1,6 @@
 # Consensus Algorithm Optimization Framework
 
-[![License: MIT OR Apache-2.0](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue.svg)](LICENSE-MIT)
+[![License: MIT OR Apache-2.0](https://img.shields.io/badge/license-MIT%20OR%20Apache--2.0-blue.svg)](#license)
 [![CI Status](https://github.com/mitsuj/consensus-sim-framework/actions/workflows/rust.yml/badge.svg)](https://github.com/mitsuj/consensus-sim-framework/actions/workflows/rust.yml)
 
 A modular, extensible framework written in Rust for simulating, analyzing, and optimizing various blockchain consensus algorithms.
@@ -65,6 +65,13 @@ Designing, testing, and tuning consensus algorithms for distributed systems like
 
 ## License
 
-This project is licensed under either of Apache License, Version 2.0 or MIT license at your option. *(License files to be added)*
+## License
+
+This project is dual-licensed under either:
+
+- [Apache License 2.0](LICENSE-APACHE)
+- [MIT license](LICENSE-MIT)
+
+at your option.
 
 ---

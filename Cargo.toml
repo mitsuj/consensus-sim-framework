@@ -1,0 +1,19 @@
+[workspace]
+resolver = "2"
+members = ["simulation_core"]
+
+[workspace.package]
+version = "0.1.0"
+authors = ["Sumit Kumar sumitjcode@gmail.com"]
+edition = "2024"
+license = "MIT OR Apache-2.0"
+
+[workspace.dependencies]
+
+[profile.release]
+lto = true
+codegen-units = 1
+panic = "abort"
+
+[profile.dev]
+opt-level = 1
